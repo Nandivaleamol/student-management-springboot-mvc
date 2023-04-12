@@ -21,9 +21,9 @@ The application allows you to perform the following operations:
 2. View all students: Click on the "View Students" button to see a list of all students in the system.
 3. Edit a student: Click on the "Edit" button next to a student record to edit its details.
 4. Delete a student: Click on the "Delete" button next to a student record to delete it from the system.
-Architecture
 
-## The application follows the Model-View-Controller (MVC) architecture pattern.
+# Architecture
+### The application follows the Model-View-Controller (MVC) architecture pattern.
 
 The model layer consists of the Student entity class and the StudentRepository interface, which is implemented using Spring Data JPA.
 The service layer consists of the StudentService interface and its implementation class, which handles business logic related to student data.
