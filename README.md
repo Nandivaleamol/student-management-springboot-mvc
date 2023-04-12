@@ -10,9 +10,9 @@ To install and run the application, follow these steps:
 Clone the repository to your local machine.
 Open the project in your preferred IDE (such as IntelliJ IDEA).
 Update the database connection properties in application.properties.
+####Run the project.
 
-## Run the project.
-Usage
+###Usage
 Once the application is running, you can access it in your web browser at http://localhost:8080/api/students.
 
 The application allows you to perform the following operations:
